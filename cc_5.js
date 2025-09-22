@@ -1,6 +1,6 @@
 // coding challenge 5
 
-// step 2
+// adding employee array/step 2
 
 let employees = [
 
@@ -10,3 +10,21 @@ let employees = [
 {name: "Palinko pinko" , hourlyRate: 90.50 , hoursWorked: 13   },
 
 ]
+
+// function that returns pay/step 3
+
+
+
+// calculating OVertime/step 4
+
+
+
+// calculating taxes/step 5
+
+
+
+// process payroll/step 6 
+
+
+
+//looping through array/step 7 
