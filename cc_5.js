@@ -17,7 +17,15 @@ console.log(employees);
 
 // function that returns pay/step 3
 
+function calculateBasePay (rate, hours) {
+    if (hours <= 40) {
+        return hours * rate;
 
+    } else {
+    return 40 * rate;
+    }
+
+}
 
 // calculating OVertime/step 4
 
